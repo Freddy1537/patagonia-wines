@@ -80,7 +80,7 @@ npm start
 ☁️ Deploy online
 El proyecto fue desplegado en:
 
-🔗 https:// (link de ejemplo)
+🔗 https://patagoniawines.netlify.app/
 
 📚 Autor
 Freddy 🍇
